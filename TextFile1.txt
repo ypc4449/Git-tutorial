@@ -1,4 +1,5 @@
 hello world
+this is before the second line
 this is the second line in the file
 Hi my name is ann
 and my name is benn
